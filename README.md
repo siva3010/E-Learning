@@ -4,7 +4,7 @@ This web site is hosted on Azure Portal using Static web and web app
 
 **Project Link**-- https://icy-dune-0af8ff210.1.azurestaticapps.net/
 
-**Demo video Url**--
+**Demo video Url**--https://youtu.be/g78kqrm5-ac
 
 ## Features and Functionalities 😃
 
