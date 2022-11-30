@@ -1,10 +1,10 @@
 # "E-Learning" Website using Microsoft Azure Technologies
-This is a web based application developed for Education related based website.
+
 This web site is hosted on Azure Portal
 
-**Project Link**-- https://victorious-ground-0120dae10.2.azurestaticapps.net/
+**Project Link**-- https://icy-dune-0af8ff210.1.azurestaticapps.net/
 
-**Demo video Url**--https://youtube.com/watch?v=lxPs_zpNjIk&feature=share
+**Demo video Url**-- https://www.youtube.com/watch?v=g78kqrm5-ac&feature=share
 
 
 Web Technologies used : 
